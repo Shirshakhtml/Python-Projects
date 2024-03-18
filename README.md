@@ -1,6 +1,6 @@
 ### Description
 
-I have listed some College Based Projects which you can do and show in your resume in Python. 
+I have listed some Cybersecurity Based Projects which you can do and show in your resume in Python. 
 
 ### Projects
 
